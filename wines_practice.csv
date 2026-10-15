@@ -1,0 +1,201 @@
+title,country,points,price,description
+Wine #1,USA,83,,tropical fruits here
+Wine #2,France,87,66.0,fruity notes here
+Wine #3,Spain,84,101.0,plain wine
+Wine #4,Italy,92,30.0,fruity notes here
+Wine #5,Spain,94,51.0,fruity notes here
+Wine #6,Canada,88,26.0,plain wine
+Wine #7,Spain,86,77.0,fruity notes here
+Wine #8,Spain,87,38.0,fruity notes here
+Wine #9,Australia,94,74.0,fruity notes here
+Wine #10,Italy,88,49.0,plain wine
+Wine #11,Italy,99,92.0,plain wine
+Wine #12,Canada,82,145.0,plain wine
+Wine #13,USA,86,142.0,tropical fruits here
+Wine #14,Australia,97,18.0,tropical fruits here
+Wine #15,Spain,95,34.0,fruity notes here
+Wine #16,Spain,93,23.0,plain wine
+Wine #17,Canada,84,22.0,plain wine
+Wine #18,Chile,80,133.0,tropical fruits here
+Wine #19,Canada,88,,plain wine
+Wine #20,Spain,81,57.0,tropical fruits here
+Wine #21,USA,87,62.0,plain wine
+Wine #22,Spain,87,77.0,plain wine
+Wine #23,France,96,27.0,plain wine
+Wine #24,Chile,100,36.0,plain wine
+Wine #25,France,90,,fruity notes here
+Wine #26,Chile,84,12.0,plain wine
+Wine #27,Australia,84,103.0,plain wine
+Wine #28,Chile,93,55.0,tropical fruits here
+Wine #29,Chile,83,,plain wine
+Wine #30,France,92,94.0,fruity notes here
+Wine #31,France,98,39.0,tropical fruits here
+Wine #32,Spain,81,90.0,tropical fruits here
+Wine #33,USA,89,107.0,plain wine
+Wine #34,France,99,63.0,fruity notes here
+Wine #35,USA,86,53.0,tropical fruits here
+Wine #36,France,80,131.0,tropical fruits here
+Wine #37,USA,80,118.0,fruity notes here
+Wine #38,USA,96,139.0,plain wine
+Wine #39,Spain,96,79.0,tropical fruits here
+Wine #40,France,84,116.0,tropical fruits here
+Wine #41,France,93,109.0,plain wine
+Wine #42,France,95,79.0,plain wine
+Wine #43,Australia,80,44.0,tropical fruits here
+Wine #44,Canada,90,74.0,tropical fruits here
+Wine #45,USA,82,131.0,tropical fruits here
+Wine #46,Canada,88,39.0,tropical fruits here
+Wine #47,Australia,100,119.0,plain wine
+Wine #48,Spain,80,143.0,fruity notes here
+Wine #49,Australia,97,32.0,plain wine
+Wine #50,Australia,92,93.0,plain wine
+Wine #51,USA,88,135.0,tropical fruits here
+Wine #52,Italy,89,104.0,fruity notes here
+Wine #53,USA,94,74.0,tropical fruits here
+Wine #54,USA,95,,plain wine
+Wine #55,Australia,84,36.0,fruity notes here
+Wine #56,Spain,85,74.0,plain wine
+Wine #57,Spain,82,67.0,plain wine
+Wine #58,Australia,81,,fruity notes here
+Wine #59,Canada,99,77.0,plain wine
+Wine #60,USA,86,67.0,plain wine
+Wine #61,USA,98,79.0,tropical fruits here
+Wine #62,Australia,81,15.0,plain wine
+Wine #63,USA,94,92.0,tropical fruits here
+Wine #64,Chile,85,83.0,fruity notes here
+Wine #65,Italy,92,137.0,fruity notes here
+Wine #66,Chile,81,78.0,fruity notes here
+Wine #67,Australia,80,39.0,fruity notes here
+Wine #68,Chile,95,58.0,fruity notes here
+Wine #69,Chile,96,135.0,plain wine
+Wine #70,Chile,97,69.0,plain wine
+Wine #71,Chile,92,35.0,fruity notes here
+Wine #72,Italy,84,96.0,fruity notes here
+Wine #73,USA,95,33.0,tropical fruits here
+Wine #74,USA,89,120.0,fruity notes here
+Wine #75,Australia,85,46.0,fruity notes here
+Wine #76,USA,80,98.0,fruity notes here
+Wine #77,France,92,,plain wine
+Wine #78,Chile,81,100.0,fruity notes here
+Wine #79,Italy,98,93.0,plain wine
+Wine #80,Australia,88,67.0,plain wine
+Wine #81,USA,92,104.0,fruity notes here
+Wine #82,Chile,100,87.0,fruity notes here
+Wine #83,Italy,84,70.0,fruity notes here
+Wine #84,USA,97,81.0,fruity notes here
+Wine #85,France,91,35.0,plain wine
+Wine #86,France,100,42.0,tropical fruits here
+Wine #87,Chile,99,,fruity notes here
+Wine #88,Chile,87,117.0,fruity notes here
+Wine #89,Chile,91,,fruity notes here
+Wine #90,Chile,92,123.0,plain wine
+Wine #91,USA,98,39.0,plain wine
+Wine #92,Chile,97,115.0,fruity notes here
+Wine #93,Spain,88,49.0,plain wine
+Wine #94,Italy,98,100.0,plain wine
+Wine #95,France,84,119.0,plain wine
+Wine #96,Chile,88,17.0,tropical fruits here
+Wine #97,USA,100,65.0,plain wine
+Wine #98,Spain,98,118.0,fruity notes here
+Wine #99,Canada,88,,tropical fruits here
+Wine #100,Canada,99,,fruity notes here
+Wine #101,USA,93,138.0,tropical fruits here
+Wine #102,Canada,82,93.0,fruity notes here
+Wine #103,Chile,91,121.0,tropical fruits here
+Wine #104,Spain,85,29.0,tropical fruits here
+Wine #105,Spain,86,124.0,tropical fruits here
+Wine #106,Canada,94,,fruity notes here
+Wine #107,Chile,89,58.0,tropical fruits here
+Wine #108,Italy,94,122.0,plain wine
+Wine #109,France,91,26.0,plain wine
+Wine #110,Canada,89,30.0,plain wine
+Wine #111,Canada,100,42.0,tropical fruits here
+Wine #112,Spain,95,,plain wine
+Wine #113,Spain,99,103.0,plain wine
+Wine #114,France,94,130.0,fruity notes here
+Wine #115,Chile,92,23.0,tropical fruits here
+Wine #116,USA,96,31.0,fruity notes here
+Wine #117,Spain,80,,fruity notes here
+Wine #118,Italy,100,95.0,tropical fruits here
+Wine #119,Spain,86,145.0,fruity notes here
+Wine #120,USA,99,14.0,tropical fruits here
+Wine #121,Australia,91,144.0,plain wine
+Wine #122,Italy,92,71.0,plain wine
+Wine #123,Italy,98,44.0,tropical fruits here
+Wine #124,USA,94,89.0,fruity notes here
+Wine #125,Spain,81,41.0,fruity notes here
+Wine #126,Spain,85,30.0,fruity notes here
+Wine #127,Spain,83,,plain wine
+Wine #128,Chile,91,17.0,plain wine
+Wine #129,Chile,94,103.0,fruity notes here
+Wine #130,Canada,82,73.0,plain wine
+Wine #131,Canada,97,40.0,fruity notes here
+Wine #132,France,94,150.0,plain wine
+Wine #133,France,83,61.0,fruity notes here
+Wine #134,Canada,95,42.0,tropical fruits here
+Wine #135,Chile,97,43.0,fruity notes here
+Wine #136,USA,87,98.0,plain wine
+Wine #137,USA,85,63.0,plain wine
+Wine #138,Italy,95,84.0,fruity notes here
+Wine #139,Canada,95,112.0,plain wine
+Wine #140,Italy,90,73.0,plain wine
+Wine #141,Canada,87,141.0,tropical fruits here
+Wine #142,Italy,92,65.0,plain wine
+Wine #143,Italy,83,113.0,plain wine
+Wine #144,Spain,82,81.0,plain wine
+Wine #145,Spain,84,45.0,fruity notes here
+Wine #146,France,99,96.0,fruity notes here
+Wine #147,USA,98,104.0,plain wine
+Wine #148,Chile,98,132.0,tropical fruits here
+Wine #149,Canada,90,115.0,plain wine
+Wine #150,Spain,95,100.0,fruity notes here
+Wine #151,France,87,91.0,plain wine
+Wine #152,Spain,89,98.0,fruity notes here
+Wine #153,USA,88,,plain wine
+Wine #154,Australia,87,23.0,fruity notes here
+Wine #155,USA,95,61.0,fruity notes here
+Wine #156,Chile,85,57.0,fruity notes here
+Wine #157,USA,97,59.0,plain wine
+Wine #158,Spain,85,113.0,plain wine
+Wine #159,Italy,85,11.0,fruity notes here
+Wine #160,Australia,98,113.0,plain wine
+Wine #161,USA,89,44.0,plain wine
+Wine #162,Australia,95,,plain wine
+Wine #163,Australia,86,62.0,fruity notes here
+Wine #164,Chile,81,116.0,tropical fruits here
+Wine #165,USA,86,98.0,fruity notes here
+Wine #166,France,84,117.0,tropical fruits here
+Wine #167,Australia,92,86.0,tropical fruits here
+Wine #168,France,94,98.0,tropical fruits here
+Wine #169,Australia,81,22.0,plain wine
+Wine #170,Spain,87,,plain wine
+Wine #171,Australia,85,98.0,fruity notes here
+Wine #172,France,97,71.0,fruity notes here
+Wine #173,France,88,33.0,plain wine
+Wine #174,Australia,99,58.0,plain wine
+Wine #175,Italy,95,71.0,fruity notes here
+Wine #176,Spain,96,115.0,tropical fruits here
+Wine #177,USA,84,94.0,plain wine
+Wine #178,USA,90,135.0,plain wine
+Wine #179,USA,81,,tropical fruits here
+Wine #180,Australia,94,115.0,plain wine
+Wine #181,Spain,97,138.0,plain wine
+Wine #182,Australia,88,86.0,tropical fruits here
+Wine #183,USA,100,24.0,fruity notes here
+Wine #184,USA,90,21.0,plain wine
+Wine #185,USA,81,51.0,fruity notes here
+Wine #186,USA,97,94.0,fruity notes here
+Wine #187,Australia,99,93.0,plain wine
+Wine #188,Australia,92,31.0,fruity notes here
+Wine #189,Italy,82,43.0,plain wine
+Wine #190,Australia,96,33.0,fruity notes here
+Wine #191,Chile,82,143.0,tropical fruits here
+Wine #192,France,93,74.0,tropical fruits here
+Wine #193,France,89,94.0,plain wine
+Wine #194,USA,86,111.0,fruity notes here
+Wine #195,Spain,83,128.0,plain wine
+Wine #196,Canada,84,124.0,plain wine
+Wine #197,Chile,93,52.0,plain wine
+Wine #198,USA,100,66.0,plain wine
+Wine #199,USA,98,66.0,fruity notes here
+Wine #200,Canada,82,62.0,tropical fruits here
